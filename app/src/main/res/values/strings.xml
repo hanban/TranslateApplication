@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TranslateApplication</string>
+    <string name="english">English</string>
+    <string name="french">French</string>
+    <string name="spanish">Spanish</string>
+    <string name="bosnian">Bosnian</string>
+
+</resources>

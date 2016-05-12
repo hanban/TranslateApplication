@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TranslateApplication</string>
+    <string name="english">Inglés</string>
+    <string name="french">Francés</string>
+    <string name="spanish">Español</string>
+    <string name="bosnian">Bosnio</string>
+</resources>
